@@ -1,4 +1,0 @@
-Colored-Pixel-Wars
-==================
-
-TODO
