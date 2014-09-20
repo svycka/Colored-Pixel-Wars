@@ -16,6 +16,7 @@ public class MapGeneration : MonoBehaviour {
 				tile.transform.Rotate (new Vector3 (-90, 0, 0));
 				tile.AddComponent ("Tile");
 				tile.name = "tile";
+				tile.tag = "notActiveTile";
 				nextPositionY += 0.1f;
 			}
 			nextPositionX += 0.1f;
